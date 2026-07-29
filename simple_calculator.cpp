@@ -20,7 +20,6 @@ int main()
         cout << num1 << "/" << num2 << "=" << num1 / num2;
     else if (operation == '*')
         cout << num1 << "*" << num2 << "=" << num1 * num2;
-    else if(operation =='%')
-        cout << num1 << "%" << num2 << "=" << num1 % num2;
+   
 
 }
